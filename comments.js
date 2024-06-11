@@ -43,4 +43,3 @@ app.post('/postComment', function(req, res) {
 		}
 	});
 });
-
